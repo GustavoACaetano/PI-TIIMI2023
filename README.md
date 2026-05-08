@@ -1,4 +1,4 @@
-# TRABALHO DE PI:  Time In
+# TRABALHO DE PI (Projeto Integrador):  Time In
 Trabalho de desenvolvimento de software realizado no ano de 2023
 
 [![](https://img.youtube.com/vi/_213KQtrCCs/0.jpg)](https://www.youtube.com/watch?v=EHcIMmAS14Y)
